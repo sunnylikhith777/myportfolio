@@ -1,0 +1,63 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Aspiring Frontend Developer, Wide range of knowledge on Frontend technologies and worked on different libraries especially React.js."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Currently working on Backend Techologies, Looking for more Evolution of mine on various technolgies to Experience."
+    },
+    {
+      "id": "3",
+      "src": "./img/tag-1.png",
+      "title": "Programming",
+      "description": "Proficient in Python, and SQL. Strong problem-solving skills, clean code practices, and a passion for learning new technologies."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "EXPENSE TRACKER",
+      "description": "This is an project used to maintain our transactions,expenses,and this project is developed by using MERN stack"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "SHOPPING CART",
+      "description": "Shopping cart e-commerce website is used to shop the medicinal plants,we can order medicinal plants in cart and checkout."
+  
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Loved your works till date,Your portfolio is a true reflection of your exceptional talent! The design is sleek, and the user experience is flawless. Impressed by your creativity and attention to detail!",
+      "author_name": "Dianne Russel",
+      "author_designation": "SINGAPORE"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Navigating through your portfolio was an absolute delight! Your projects showcase your expertise and innovation. Can't wait to collaborate with you on future endeavors",
+      "author_name": "Kristin Watson",
+      "author_designation": "UK"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I'm thoroughly impressed by your work! It's evident that you're a master of your craft. Your projects demonstrate creativity, versatility, and a deep understanding of design principles. Well done!",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "CANADA"
+    }
+  ]
+}
